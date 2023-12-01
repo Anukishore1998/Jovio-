@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Payment" transform="translate(-32 -430)">
+    <circle id="Ellipse_290" data-name="Ellipse 290" cx="12" cy="12" r="12" transform="translate(32 430)" fill="#fff"/>
+    <rect id="Rectangle_8893" data-name="Rectangle 8893" width="14" height="8" rx="2" transform="translate(37 438)" fill="none" stroke="#3c3c3c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Ellipse_339" data-name="Ellipse 339" transform="translate(42 440)" fill="#fff" stroke="#3c3c3c" stroke-width="1">
+      <circle cx="2" cy="2" r="2" stroke="none"/>
+      <circle cx="2" cy="2" r="1.5" fill="none"/>
+    </g>
+    <line id="Line_224" data-name="Line 224" x1="1" transform="translate(39.5 442)" fill="none" stroke="#3c3c3c" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_225" data-name="Line 225" x1="1" transform="translate(47.5 442)" fill="none" stroke="#3c3c3c" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

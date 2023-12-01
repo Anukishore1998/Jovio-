@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Home" transform="translate(-32 -360)">
+    <circle id="Ellipse_290" data-name="Ellipse 290" cx="12" cy="12" r="12" transform="translate(32 360)" fill="#fff"/>
+    <path id="Icon_material-home" data-name="Icon material-home" d="M8.5,16.182V12.059h2.749v4.123h3.436v-5.5h2.061L9.872,4.5,3,10.684H5.061v5.5Z" transform="translate(34.128 361.068)" fill="none" stroke="#3c3c3c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

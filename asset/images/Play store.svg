@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Play_store" data-name="Play store" transform="translate(-32 -678)">
+    <circle id="Ellipse_290" data-name="Ellipse 290" cx="12" cy="12" r="12" transform="translate(32 678)" fill="#fff"/>
+    <g id="Group_18352" data-name="Group 18352">
+      <circle id="Ellipse_315" data-name="Ellipse 315" cx="6" cy="6" r="6" transform="translate(38 684)" fill="none" stroke="#3c3c3c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_70782" data-name="Path 70782" d="M8,14a3.382,3.382,0,0,0,2.506,1.253A3.382,3.382,0,0,0,13.011,14" transform="translate(33.494 677.253)" fill="none" stroke="#3c3c3c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_152" data-name="Line 152" x2="0.006" transform="translate(42.121 688.121)" fill="none" stroke="#3c3c3c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_153" data-name="Line 153" x2="0.006" transform="translate(45.879 688.121)" fill="none" stroke="#3c3c3c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
